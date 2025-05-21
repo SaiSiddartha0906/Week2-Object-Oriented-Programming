@@ -12,8 +12,7 @@ Welcome to the repository for Week 2 of our Java learning journey. This week foc
   - [Day 5: Abstraction and Interfaces](#day-5-abstraction-and-interfaces)
   - [Day 6: Encapsulation and Access Modifiers](#day-6-encapsulation-and-access-modifiers)
 - [Prerequisites](#prerequisites)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
+
 
 ## 🧭 Overview
 This week focused on learning and implementing the four pillars of Object-Oriented Programming: Encapsulation, Inheritance, Polymorphism, and Abstraction. You’ll find examples that demonstrate how Java uses classes and objects to create reusable and maintainable code.
